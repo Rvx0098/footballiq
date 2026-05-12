@@ -31,4 +31,5 @@ Inspired by platforms like Sofascore, Opta, and StatsBomb, FootballIQ combines d
 ## 📌 Project Goal
 
 The goal of FootballIQ is to simulate a real-world football intelligence platform capable of analyzing player and club performance while delivering modern interactive analytics experiences.
+https://footballiq.streamlit.app/   -  app url
 
